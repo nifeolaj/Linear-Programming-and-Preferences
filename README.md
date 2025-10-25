@@ -1,4 +1,4 @@
-# Decision Modelling Assignment 2
+# Decision Modeling Assignment 2
 
 **Name:** Oluwanifemi Olajuyigbe
 
@@ -8,7 +8,7 @@ This project contains two linear programming optimization problems implemented u
 ## Files
 
 ### 1. Vacation Bag Problem
-- **File:** `Decision Modelling_Vacation_bag_Oluwanifemi_Olajuyigbe.py`
+- **File:** `Decision Modeling_Vacation_bag_Oluwanifemi_Olajuyigbe.py`
 - **Objective:** Maximize value while respecting weight constraints
 - **Scenarios:** Tests with 20kg, 23kg, and 26kg weight limits
 
@@ -32,7 +32,7 @@ This project contains two linear programming optimization problems implemented u
 ## Usage
 Run the Python files directly:
 ```bash
-python "Decision Modelling_Vacation_bag_Oluwanifemi_Olajuyigbe.py"
+python "Decision Modeling_Vacation_bag_Oluwanifemi_Olajuyigbe.py"
 python "Decision_Modeling_Assignment_Paris_Visit_Oluwanifemi_Olajuyigbe.py"
 ```
 
