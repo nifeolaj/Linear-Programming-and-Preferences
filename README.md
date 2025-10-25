@@ -19,7 +19,7 @@ This project contains two linear programming optimization problems implemented u
 - **Features:**
   - Multiple budget/duration scenarios
   - Preference constraints (must-visit sites, conditional logic)
-  - Statistical correlation analysis between duration, appreciation, and price
+  - Ranking and Statistical correlation analysis between duration, appreciation, and price
 
 ### 3. Results
 - **File:** `results.txt` - Output from running the Paris visit optimization
